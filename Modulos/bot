@@ -1,38 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@leonardofreed
-leonardofreed /
-ssh3g
-
-1
-0
-
-    0
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-
-    Settings
-
-ssh3g/Modulos/bot
-@leonardofreed
-leonardofreed Update bot
-Latest commit d74f9b0 2 hours ago
-History
-2 contributors
-@AAAAAEXQOSyIpN2JZ0ehUQ
-@leonardofreed
-2478 lines (2425 sloc) 125 KB
 #!/bin/bash
 #===================================================
 #	SCRIPT: BOT SSHPLUS MANAGER
@@ -2512,17 +2477,3 @@ while :; do
     done
 done
 #FIM
-
-    © 2020 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Help
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
