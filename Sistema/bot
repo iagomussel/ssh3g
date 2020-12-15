@@ -1234,7 +1234,7 @@ msg_bem_vindo() {
     local msg
     msg="✌️😃 Ola <b>${message_from_first_name[$id]}</b>\n\nSEJA BEM VINDO(a)\n\n"
     msg+="Para acessar o menu\nclick ou execute [ /menu ]\n\n"
-    msg+="Para obter informacoes\nclick ou execute [ /ajuda ]\n\n"
+    msg+="Meu ID\nclick ou execute [ /info ]\n\n"
     ShellBot.sendMessage --chat_id ${message_chat_id[$id]} \
         --text "$(echo -e $msg)" \
         --parse_mode html
